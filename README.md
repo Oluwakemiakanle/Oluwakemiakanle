@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading and programming
 - 🌱 I’m currently learning linear algbra
 - 💞️ I’m looking to collaborate on a research project
-- 📫 How to reach me oakanle02@gmail.com or akanlek1@montclair.edu
+- 📫 How to reach me oakanle02@gmail.com 
 
 <!---
 Oluwakemiakanle/Oluwakemiakanle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
