@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwakemiakanle
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning linear algbra
+- 🌱 I’m currently learning ML and AI
 - 📫 How to reach me oakanle02@gmail.com 
 
 <!---
